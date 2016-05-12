@@ -1,0 +1,13 @@
+{
+  "name": "jquery.nestable",
+  "main": "jquery.nestable.js",
+  "authors": [
+    "Victor <v.istrati@developmentaid.org>"
+  ],
+  "description": "",
+  "keywords": [
+    "table"
+  ],
+  "license": "MIT",
+  "homepage": ""
+}
